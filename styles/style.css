@@ -416,4 +416,10 @@
   .projects__link {
     font-size: 1rem;
   }
+
+  .footer__social {
+    grid-template-columns: repeat(4, auto);
+    justify-content: center;
+    gap: 20px;
+  }
 }
